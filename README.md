@@ -1,4 +1,4 @@
-# Froststained Server Console
+# Talos - Local MC Server Console
 
 Minecraft Java server management console for LAN. Single server per console instance.
 
